@@ -38,7 +38,8 @@ nav ul li a{
     color: var(--text);
     font-size: 18px;
 }
-@media screen and (mini-width:800px){
+
+@media screen and (min-width: 800px){
     
 
 .bar{
