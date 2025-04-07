@@ -13,8 +13,8 @@
 .bground{
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/src/public/images/hotel.png") no-repeat center center;
     background-size: cover;
-    height: 50vh; /* 100% of the viewport height */
     width: 100%;
+    object-fit: cover;
 }
 header{
     display: flex;
@@ -31,12 +31,28 @@ nav ul li{
     padding: 3px 15px;
     margin: 5px;
     border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+    transition: 0.3s ease-in-out;
 }
 nav ul li a{
     color:rgb(15, 15, 14);
     text-decoration: none;
     color: var(--text);
     font-size: 18px;
+}
+.sec{
+    color: var(--text);
+    text-align: left;
+    margin-top: 20px;
+    padding: 20px;
+    width: 60%;
+    font-size: 20px;
+    line-height: 1.5;
+    padding-left:70px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.sec h3{
+    text-align: center;
 }
 
 @media screen and (min-width: 800px){
@@ -47,7 +63,7 @@ nav ul li a{
 }
 
 body{
-        padding:10px 20px
+        padding:0 10px
     }
     
 
@@ -64,6 +80,40 @@ input[type='search']{
 .search{
     cursor: pointer;
 }
+.hotel-featured{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    font-size: 18px;
+    text-align: center;
+    text-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 1rem;
+}
+.hotel-featured li{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+}
+.hotel-featured li:hover{
+    transform: scale(1.1);
+    transition: 0.3s ease-in-out;
+}
+.section{
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    line-height: 1.6;
+
+}
+.section h3{
+    text-align: center;
+}
+.hotel-featured li i{
+    font-size: 40px;
+}
+
 
 /* footer */
 footer{
@@ -154,8 +204,47 @@ footer{
     background: rgba(51, 51, 51, 0.6);
     backdrop-filter: blur(10px);
     text-align: left;
+    height: 100vh;
 
 }
+
+.sec{
+    color: var(--text);
+    text-align: left;
+    padding: 10px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 1.5;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.hotel-featured{
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   font-size: 18px;
+}
+.hotel-featured li{
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+}
+.section{
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    line-height: 1.6;
+    text-wrap: wrap;
+
+}
+.section h3{
+    text-align: center;
+}
+.hotel-featured li i{
+    font-size: 40px;
+    padding-right: 10px;
+}
+
 /* footer */
 footer{
     display: flex;
