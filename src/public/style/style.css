@@ -35,7 +35,7 @@ header{
     justify-content: space-between;
     color:var(--text);
 }
-.canle-btn{
+.cancel-btn{
     color: red;
     font-size: 20px;
     cursor: pointer;
@@ -51,6 +51,24 @@ header{
     display: flex;
     justify-content: space-around;
     font-weight: 400;
+}
+#clear-booking{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #333333;
+    color: var(--text);
+    font-size: 20px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px auto;
+
+}
+
+
+#booking-details{
+    text-align: center;
+    font-size: 20px;
 }
 .btn-cta{
     background: #f39c12;
