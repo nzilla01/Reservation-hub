@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Grand Royal Hotel",
+    "image": "/src/public/images/hotel1.jpg",
+    "description": "Experience elegance and comfort in the heart of the city.",
+    "location": "Port Harcourt, Nigeria",
+    "rating": 4.8,
+    "pricePerNight": 220,
+    "lat": 4.9324,
+    "lon": 8.3171
+  },
+  {
+    "name": "Oceanview Resort",
+    "image": "/src/public/images/hotel2.jpg",
+    "description": "Relax by the sea with stunning views and world-class service.",
+    "location": "Malibu, USA",
+    "rating": 4.7,
+    "pricePerNight": 310,
+    "lat": 34.0259,
+    "lon": -118.7798
+  },
+  {
+    "name": "Mountain Escape Lodge",
+    "image": "/src/public/images/hotel3.jpg",
+    "description": "A peaceful retreat surrounded by mountains and nature.",
+    "location": "Aspen, USA",
+    "rating": 4.5,
+    "pricePerNight": 180,
+    "lat": 39.1911,
+    "lon": -106.8175
+  },
+  {
+    "name": "City Central Inn",
+    "image": "/src/public/images/hotel4.jpg",
+    "description": "Stay close to the action in our modern city hotel.",
+    "location": "London, UK",
+    "rating": 4.3,
+    "pricePerNight": 150,
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "name": "Tropical Paradise Hotel",
+    "image": "/src/public/images/hotel5.jpg",
+    "description": "Palm trees, beaches, and pure relaxation await you.",
+    "location": "Bali, Indonesia",
+    "rating": 4.9,
+    "pricePerNight": 290,
+    "lat": -8.4095,
+    "lon": 115.1889
+  },
+  {
+    "name": "The Art House",
+    "image": "/src/public/images/hotel6.jpg",
+    "description": "Boutique hotel with artistic flair and unique decor.",
+    "location": "Barcelona, Spain",
+    "rating": 4.4,
+    "pricePerNight": 170,
+    "lat": 41.3784,
+    "lon": 2.1916
+  },
+  {
+    "name": "Ski Hill Lodge",
+    "image": "/src/public/images/hotel7.jpg",
+    "description": "Perfect for winter sports lovers and cozy nights.",
+    "location": "Zermatt, Switzerland",
+    "rating": 4.6,
+    "pricePerNight": 240,
+    "lat": 46.0207,
+    "lon": 7.7491
+  },
+  {
+    "name": "Desert Mirage Hotel",
+    "image": "/src/public/images/hotel8.jpg",
+    "description": "Escape to tranquility in our stylish desert retreat.",
+    "location": "Dubai, UAE",
+    "rating": 4.5,
+    "pricePerNight": 200,
+    "lat": 25.276987,
+    "lon": 55.296249
+  },
+  {
+    "name": "Lakefront Bliss",
+    "image": "/src/public/images/hotel9.jpg",
+    "description": "Unwind with serene lake views and luxurious rooms.",
+    "location": "Lake Como, Italy",
+    "rating": 4.7,
+    "pricePerNight": 275,
+    "lat": 45.9773,
+    "lon": 9.2587
+  },
+  {
+    "name": "Vintage Vibes Inn",
+    "image": "/src/public/images/hotel10.jpg",
+    "description": "Charming retro-style hotel with a warm atmosphere.",
+    "location": "Paris, France",
+    "rating": 4.2,
+    "pricePerNight": 160,
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
+    "name": "Island Escape Resort",
+    "image": "/src/public/images/hotel1.jpg",
+    "description": "Private island luxury and turquoise waters.",
+    "location": "Maldives",
+    "rating": 5.0,
+    "pricePerNight": 600,
+    "lat": 3.2028,
+    "lon": 73.2207
+  },
+  {
+    "name": "Urban Hideout",
+    "image": "/src/public/images/hotel2.jpg",
+    "description": "Modern and sleek design in the heart of the city.",
+    "location": "Tokyo, Japan",
+    "rating": 4.3,
+    "pricePerNight": 190,
+    "lat": 35.6762,
+    "lon": 139.6503
+  },
+  {
+    "name": "Safari Sunrise Lodge",
+    "image": "/src/public/images/hotel3.jpg",
+    "description": "Wake up to the sounds of the wild in luxury.",
+    "location": "Nairobi, Kenya",
+    "rating": 4.6,
+    "pricePerNight": 330,
+    "lat": -1.2867,
+    "lon": 36.8172
+  },
+  {
+    "name": "Alpine Chalet",
+    "image": "/src/public/images/hotel4.jpg",
+    "description": "Traditional wooden lodge with panoramic views.",
+    "location": "Innsbruck, Austria",
+    "rating": 4.8,
+    "pricePerNight": 210,
+    "lat": 47.2680,
+    "lon": 11.3923
+  },
+  {
+    "name": "Sunset Cove Hotel",
+    "image": "/src/public/images/hotel5.jpg",
+    "description": "Spectacular sunset views and beachfront dining.",
+    "location": "Santorini, Greece",
+    "rating": 4.9,
+    "pricePerNight": 280,
+    "lat": 36.3932,
+    "lon": 25.4615
+  },
+  {
+    "name": "The Historic Inn",
+    "image": "/src/public/images/hotel6.jpg",
+    "description": "Step back in time with vintage charm and history.",
+    "location": "Edinburgh, UK",
+    "rating": 4.3,
+    "pricePerNight": 145,
+    "lat": 55.9533,
+    "lon": -3.1883
+  },
+  {
+    "name": "Jungle Retreat",
+    "image": "/src/public/images/hotel7.jpg",
+    "description": "Nestled in lush greenery with exotic surroundings.",
+    "location": "Costa Rica",
+    "rating": 4.7,
+    "pricePerNight": 260,
+    "lat": 9.7489,
+    "lon": -83.7534
+  },
+  {
+    "name": "Skyline Suites",
+    "image": "/src/public/images/hotel8.jpg",
+    "description": "Luxury suites with stunning skyline views.",
+    "location": "Singapore",
+    "rating": 4.8,
+    "pricePerNight": 320,
+    "lat": 1.290270,
+    "lon": 103.851959
+  },
+  {
+    "name": "Harbor Lights Hotel",
+    "image": "/src/public/images/hotel9.jpg",
+    "description": "Chic and contemporary with harbor views.",
+    "location": "Sydney, Australia",
+    "rating": 4.5,
+    "pricePerNight": 260,
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  {
+    "name": "Countryside Comfort Inn",
+    "image": "/src/public/images/hotel10.jpg",
+    "description": "Relaxing stay in a peaceful rural setting.",
+    "location": "Yorkshire, UK",
+    "rating": 4.2,
+    "pricePerNight": 130,
+    "lat": 53.8000,
+    "lon": -1.5491
+  },
+  {
+    "name": "Snowflake Resort",
+    "image": "/src/public/images/hotel11.jpg",
+    "description": "Winter wonderland resort with hot tubs and ski slopes.",
+    "location": "Banff, Canada",
+    "rating": 4.9,
+    "pricePerNight": 270,
+    "lat": 51.1784,
+    "lon": -115.5708
+  }
+]

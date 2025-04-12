@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Bella Italia",
+      "image": "/src/public/images/rest1.jpg",
+      "description": "Authentic Italian cuisine in a cozy atmosphere.",
+      "cuisine": "Italian",
+      "rating": 4.5
+    },
+    {
+      "name": "Dragon Delight",
+      "image":"/src/public/images/rest2.jpg",
+      "description": "Traditional Chinese dishes with a modern twist.",
+      "cuisine": "Chinese",
+      "rating": 4.3
+    },
+    {
+      "name": "Spice of India",
+      "image": "/src/public/images/rest3.jpg",
+      "description": "Rich flavors and spices straight from India.",
+      "cuisine": "Indian",
+      "rating": 4.7
+    },
+    {
+      "name": "Taco Fiesta",
+      "image": "/src/public/images/rest4.jpg",
+      "description": "Fun Mexican food with bold flavors and fresh ingredients.",
+      "cuisine": "Mexican",
+      "rating": 4.0
+    },
+    {
+      "name": "Burger Joint",
+      "image": "/src/public/images/rest5.jpg",
+      "description": "Classic American burgers with a gourmet twist.",
+      "cuisine": "American",
+      "rating": 4.2
+    },
+    {
+      "name": "Pasta Palace",
+      "image": "/src/public/images/rest1.jpg",
+      "description": "A wide selection of pastas and sauces to satisfy your cravings.",
+      "cuisine": "Italian",
+      "rating": 4.6
+    },
+    {
+      "name": "Great Wall Express",
+      "image": "/src/public/images/rest2.jpg",
+      "description": "Fast and tasty Chinese noodle dishes.",
+      "cuisine": "Chinese",
+      "rating": 4.1
+    },
+    {
+      "name": "Curry Craze",
+      "image": "/src/public/images/rest3.jpg",
+      "description": "Hearty curries and savory naan breads.",
+      "cuisine": "Indian",
+      "rating": 4.8
+    },
+    {
+      "name": "Casa Mexicana",
+      "image": "/src/public/images/rest4.jpg",
+      "description": "A colorful cantina offering vibrant Mexican food.",
+      "cuisine": "Mexican",
+      "rating": 4.4
+    },
+    {
+      "name": "Grill & Chill",
+      "image": "/src/public/images/rest4.jpg",
+      "description": "Grilled favorites in a laid-back setting.",
+      "cuisine": "American",
+      "rating": 4.5
+    },
+    {
+      "name": "Napoli Nights",
+      "image": "/src/public/images/rest5.jpg",
+      "description": "Wood-fired pizza straight from Naples.",
+      "cuisine": "Italian",
+      "rating": 4.3
+    },
+    {
+      "name": "Wok Street",
+      "image":"/src/public/images/rest1.jpg",
+      "description": "Asian fusion dishes bursting with flavor.",
+      "cuisine": "Chinese",
+      "rating": 4.6
+    }
+  ]
+  
